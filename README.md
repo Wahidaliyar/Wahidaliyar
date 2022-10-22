@@ -1,16 +1,14 @@
 ### Hi there 👋, I am Abdulwahid, a Full Stack developer from Afghanistan.
 
 
-**Wahidaliyar/Wahidaliyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<hr>
+I am a 3rd year undergraduate student pursuing a Bachelor in Computer Science, who is passionate about Web development, database, UI/UX and software development. I love to learn and contribute in any and every possible way.
+<hr>
+### Languages I work with:
+HTML5, CSS3, JAVASCRIPT
+PHP, PHP OOP, MYSQL
+JAVA, PYTHON 3
+<hr>
+## How to reach me?
+EMAIL: awaliyar20@gmail.com
+TWITTER: @wahidaliyarr
