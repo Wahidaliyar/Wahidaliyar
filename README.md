@@ -2,7 +2,7 @@
 
 
 <hr>
-<b>I am a 3rd year undergraduate student pursuing a Bachelor in Computer Science, who is passionate about Web development, database, UI/UX and software development. I love to learn and contribute in any and every possible way.</b>
+<b>I am a 3<sup>rd</sup> year undergraduate student pursuing a Bachelor in Computer Science, who is passionate about Web development, database, UI/UX and software development. I love to learn and contribute in any and every possible way.</b>
 <hr>
 <h3>Languages I work with:</h3>
 HTML5, CSS3, JAVASCRIPT<br>
