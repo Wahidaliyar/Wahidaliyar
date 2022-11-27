@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abdulwahid, a Full Stack developer from Afghanistan.
+### Hi there 👋, I am Abdulwahid, a junior front-end developer from Afghanistan.
 
 
 <hr>
