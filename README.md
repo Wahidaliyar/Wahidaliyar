@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abdulwahid, a junior front-end developer from Afghanistan.
+### Hi there 👋, I am Wahid Alitar, a full-stack developer.
 
 
 <hr>
